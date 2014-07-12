@@ -5,20 +5,60 @@ body {
 
 #navigation {
 	height: 80px;
-	background-color: #ffffff; 
+	background-color: #26CC8C;
+	border-bottom: 3px solid #ffffff;
 }
+
+ul li a {
+	font-family: 'Pontano Sans', sans-serif; 
+	font-size: 25px;
+	color: #ffffff;
+	float: left;
+	list-style-type: none;
+}
+
+
 
 #hero {
 	height: 160px;
 	background-color: #26CC8C;
 }
 
+.quarter {
+	width: 25%;
+	margin-top: 50px;
+	float: left;
+	display: inline;
+	text-align: center;
+}
+
+.quarter i {
+	font-size: 150px;
+	color: #ffffff;
+}
+
+p {
+	font-family: 'Pontano Sans', sans-serif; 
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.two {
+	width: 50%;
+	margin-top: 50px;
+	float: left;
+	display: inline;
+	text-align: center;
+}
+
+/* --
 #work {
 	height: 160px;
 	background-color: #ffffff;
 }
+-- */
 
-#about {
+#aboutUs {
 	height: 160px;
 	background-color: #26CC8C;	
 }
@@ -26,5 +66,4 @@ body {
 #contact {
 	height: 80px;
 	background-color: #363535;
-
 }
