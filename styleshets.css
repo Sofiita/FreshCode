@@ -19,6 +19,7 @@ ul li a {
 
 #hero {
 	background-color: #26CC8C;
+	padding-bottom: 15px;
 }
 
 .quarter {
@@ -39,6 +40,7 @@ ul li a {
 	font-family: 'Pontano Sans', sans-serif; 
 	font-size: 20px;
 	color: #ffffff;
+	margin: 15px;
 }
 
 .two {
